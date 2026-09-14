@@ -1,0 +1,7 @@
+https://github.com/rahimullahafzali6-dotcom/My-First-Git-Pro
+ject
+
+
+
+
+powercfg /batteryreport
